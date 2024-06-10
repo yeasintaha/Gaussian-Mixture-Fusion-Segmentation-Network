@@ -12,8 +12,9 @@ The architecture utilizes convolutional layers, batch normalization, activation 
 Clone the repository:
 
 ```bash
-
-```bash
 git clone https://github.com/yeasintaha/Gaussian-Mixture-Fusion-Segmentation-Network.git
-
 ```
+
+## Contribution
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
