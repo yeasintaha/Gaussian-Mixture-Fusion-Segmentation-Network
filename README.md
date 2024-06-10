@@ -1,4 +1,4 @@
-# Gaussian-Mixture-Fusion-Segmentation-Network
+# Gaussian Mixture Fusion Segmentation Network
 The Gaussian Mixture Fusion Segmentation Network is a deep learning architecture designed for image segmentation tasks, particularly suited for scenarios where integrating information from Gaussian mixture models (GMM) enhances segmentation accuracy.
 
 This network comprises an encoder-decoder structure, where the encoder gradually downsamples the input image, and the decoder upsamples the encoded features to generate segmentation masks. Notably, it incorporates a novel fusion mechanism by concatenating feature maps from the original image, GMM segmentation maps, and intermediate convolutional layers at multiple stages of the network.
